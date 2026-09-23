@@ -1,5 +1,4 @@
 import javax.swing.*;
-import javax.swing.*;
 
 class libro {
     private String isbn;
